@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\fiyat.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:fiyat.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\depo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:depo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\Benzin\u0130stasyonuProjesi.sln - K\u0131sayol.lnk||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\Benzin\u0130stasyonuProjesi.sln - K\u0131sayol.lnk||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet1.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet1.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.xss - K\u0131sayol.lnk||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.xss - K\u0131sayol.lnk||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\App.config - K\u0131sayol.lnk||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\App.config - K\u0131sayol.lnk||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet1.xsd - K\u0131sayol.lnk||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet1.xsd - K\u0131sayol.lnk||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.Designer.cs - K\u0131sayol.lnk||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.Designer.cs - K\u0131sayol.lnk||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\Benzin\u0130stasyonuProjesi.csproj - K\u0131sayol.lnk||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\Benzin\u0130stasyonuProjesi.csproj - K\u0131sayol.lnk||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fiyat.txt",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\fiyat.txt",
+              "RelativeDocumentMoniker": "fiyat.txt",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\fiyat.txt",
+              "RelativeToolTip": "fiyat.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-31T15:13:10.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "depo.txt",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\depo.txt",
+              "RelativeDocumentMoniker": "depo.txt",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\depo.txt",
+              "RelativeToolTip": "depo.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-31T15:13:08.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "benzinsat\u0131\u015Fkay\u0131tDataSet1.xss",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet1.xss",
+              "RelativeDocumentMoniker": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet1.xss",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet1.xss",
+              "RelativeToolTip": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet1.xss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMqSURBVDhPjZTfS9pRFMCPvzYmCZpKLsxZLtuIYgrVSKjR9qY9j\u002Bipwj1sERTU/oGg9hL9BfnUyyxo0ct6CZQiK1YrGpT90hmU\u002BYPy5/y5c6/XppmsDxz0nnPu\u002BZ577jkX/kd3d7cqEol8RLGHw\u002BEgSuaOnKFY7Ha7EbLZLIftuxez2WwYGBh4LxKJTMfHx9KNjY0nXq\u002BXz8yUpqamPyghuVx\u002B5PP5vpYNiMEe9fT0fFIqlYMHB4e1cpkcLi8vIRwJM48ciqoq4HA4kEqnogaD4bDoa4UYjUZBc3Oz0u1212JWoNfpoaGhgVmL\u002BbW/D64jtxD/vuLmVKV4PJ5MMBjMJJMp8Pt9mJ0XcA03NzdFgseEK98V/U8om\u002BHo6GgMnZKtra2wsrICzkMnZvgCxBIx88hxdnoKWN9bfVENu7q63o2MjHxmS6irq9OIxWL17u4uzMzMQDqdBj5fwKw5YrEoSoz4wtTUVHGGCoXiqV6vf7u0tASpVAqwfqBSqQBrCZlMBgKBAPMsT0kNQ6EQLCwsgNVqpbK2tsYsD6MkIJfLhcrKSjwaH4RCIVRUVDDLwygJWIV9NTExAVqtlrQO9Pf3M8vDoDUcHx//otFontfU1Kh4PB7NUCAQ0AxxSiCRSMDQ0BD9JSUgt14I2UP8CTRgR0fHG\u002Bz2FqfTCUQIZCrI7eJ40jWhvb2dXlIhEomE6nQ6XQSX\u002B7RtbDabY3Nzs2V1dbVkAyGZTNIPjY2N0SyXl5eZBaC6ujre2NgYwH0HLpfLyseii/AiaC3xK4B9SB2jCB6F9xjx\u002B/23\u002Bs7OTnKiFGaO7RfLYjt5UG3b2dn5ZjKZvvPx2XFg7Z45HA66Ic/w8PBgW1vba7yUD0x1Cwb7cX19PdjX1xfBrBKoisbjcTp7fBz4l7Ozs9nt7W06CRaLBXp7e8ks/66vr9eSo87NzdH\u002BXFxcpA0vlUrDk5OTP9fX15NEXwg96tbWFpyfn8PFxQWQTEngPGT4SW1J7fb29uDk5ATw9cnOz8\u002BXBCPQgHhkwGyoqNVq\u002Br7lIY2dtxGRyWTMcj\u002B0bbDgZR9anGPO9PQ0W\u002BW424f/APgLhKeOqUy7wgkAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-05-31T15:12:57.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "benzinsat\u0131\u015Fkay\u0131tDataSet.xss - K\u0131sayol.lnk",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.xss - K\u0131sayol.lnk",
+              "RelativeDocumentMoniker": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.xss - K\u0131sayol.lnk",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.xss - K\u0131sayol.lnk",
+              "RelativeToolTip": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.xss - K\u0131sayol.lnk",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-31T15:12:55.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "benzinsat\u0131\u015Fkay\u0131tDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.xsd",
+              "RelativeDocumentMoniker": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.xsd",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.xsd*",
+              "RelativeToolTip": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.xsd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-31T15:12:52.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config - K\u0131sayol.lnk",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\App.config - K\u0131sayol.lnk",
+              "RelativeDocumentMoniker": "bin\\Debug\\App.config - K\u0131sayol.lnk",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\App.config - K\u0131sayol.lnk",
+              "RelativeToolTip": "bin\\Debug\\App.config - K\u0131sayol.lnk",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-31T15:12:49.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\App.config",
+              "RelativeDocumentMoniker": "bin\\Debug\\App.config",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\App.config",
+              "RelativeToolTip": "bin\\Debug\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-31T15:12:43.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Benzin\u0130stasyonuProjesi.sln - K\u0131sayol.lnk",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\Benzin\u0130stasyonuProjesi.sln - K\u0131sayol.lnk",
+              "RelativeDocumentMoniker": "bin\\Debug\\Benzin\u0130stasyonuProjesi.sln - K\u0131sayol.lnk",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\Benzin\u0130stasyonuProjesi.sln - K\u0131sayol.lnk",
+              "RelativeToolTip": "bin\\Debug\\Benzin\u0130stasyonuProjesi.sln - K\u0131sayol.lnk",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-31T15:12:28.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "benzinsat\u0131\u015Fkay\u0131tDataSet1.xsd - K\u0131sayol.lnk",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet1.xsd - K\u0131sayol.lnk",
+              "RelativeDocumentMoniker": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet1.xsd - K\u0131sayol.lnk",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet1.xsd - K\u0131sayol.lnk",
+              "RelativeToolTip": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet1.xsd - K\u0131sayol.lnk",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-31T15:12:39.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "benzinsat\u0131\u015Fkay\u0131tDataSet3.Designer.cs - K\u0131sayol.lnk",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.Designer.cs - K\u0131sayol.lnk",
+              "RelativeDocumentMoniker": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.Designer.cs - K\u0131sayol.lnk",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.Designer.cs - K\u0131sayol.lnk",
+              "RelativeToolTip": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.Designer.cs - K\u0131sayol.lnk",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-31T15:12:37.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "benzinsat\u0131\u015Fkay\u0131tDataSet3.xsc",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.xsc",
+              "RelativeDocumentMoniker": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.xsc",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.xsc",
+              "RelativeToolTip": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.xsc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-05-31T15:12:33.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "benzinsat\u0131\u015Fkay\u0131tDataSet3.xsd",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.xsd",
+              "RelativeDocumentMoniker": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.xsd",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.xsd*",
+              "RelativeToolTip": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet3.xsd*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-31T15:12:29.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Benzin\u0130stasyonuProjesi.csproj - K\u0131sayol.lnk",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\Benzin\u0130stasyonuProjesi.csproj - K\u0131sayol.lnk",
+              "RelativeDocumentMoniker": "bin\\Debug\\Benzin\u0130stasyonuProjesi.csproj - K\u0131sayol.lnk",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\Benzin\u0130stasyonuProjesi.csproj - K\u0131sayol.lnk",
+              "RelativeToolTip": "bin\\Debug\\Benzin\u0130stasyonuProjesi.csproj - K\u0131sayol.lnk",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-31T15:12:25.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "benzinsat\u0131\u015Fkay\u0131tDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.Designer.cs",
+              "ToolTip": "C:\\Users\\Ece Nur\\Desktop\\otomasyon projeler\\benzin istasyonu otomasyonu\\bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.Designer.cs",
+              "RelativeToolTip": "bin\\Debug\\benzinsat\u0131\u015Fkay\u0131tDataSet.Designer.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:12:12.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
